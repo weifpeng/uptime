@@ -5,6 +5,8 @@ repo: uptime # The name of this repository
 sites:
   - name: GptWeb
     url: https://chatgpt.asset-system.com
+    name: test
+    url: https://data.asset-system.com
  
 
 status-website:
