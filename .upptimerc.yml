@@ -6,7 +6,7 @@ sites:
   - name: GptWeb
     url: https://chatgpt.asset-system.com
   - name: test
-    url: https://data.asset-system.com
+    url: https://ddata.asset-system.com
  
 
 status-website:
