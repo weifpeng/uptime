@@ -10,31 +10,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1375,
-    "timeDay": 1375,
-    "timeWeek": 1375,
-    "timeMonth": 1375,
-    "timeYear": 1375,
+    "time": 1362,
+    "timeDay": 1362,
+    "timeWeek": 1362,
+    "timeMonth": 1362,
+    "timeYear": 1362,
     "dailyMinutesDown": {}
   },
   {
     "name": "test",
-    "url": "https://data.asset-system.com",
-    "icon": "https://icons.duckduckgo.com/ip3/data.asset-system.com.ico",
+    "url": "https://ddata.asset-system.com",
+    "icon": "https://icons.duckduckgo.com/ip3/ddata.asset-system.com.ico",
     "slug": "test",
     "status": "down",
-    "uptime": "16.86%",
-    "uptimeDay": "16.86%",
-    "uptimeWeek": "16.86%",
-    "uptimeMonth": "16.86%",
-    "uptimeYear": "16.86%",
+    "uptime": "0.18%",
+    "uptimeDay": "0.18%",
+    "uptimeWeek": "0.18%",
+    "uptimeMonth": "0.18%",
+    "uptimeYear": "0.18%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-19": 0
+      "2023-06-19": 26
     }
   }
 ]
