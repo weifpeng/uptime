@@ -10,11 +10,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1380,
-    "timeDay": 1380,
-    "timeWeek": 1380,
-    "timeMonth": 1380,
-    "timeYear": 1380,
+    "time": 1375,
+    "timeDay": 1375,
+    "timeWeek": 1375,
+    "timeMonth": 1375,
+    "timeYear": 1375,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "test",
+    "url": "https://data.asset-system.com",
+    "icon": "https://icons.duckduckgo.com/ip3/data.asset-system.com.ico",
+    "slug": "test",
+    "status": "down",
+    "uptime": "29.26%",
+    "uptimeDay": "29.26%",
+    "uptimeWeek": "29.26%",
+    "uptimeMonth": "29.26%",
+    "uptimeYear": "29.26%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-06-19": 0
+    }
   }
 ]
