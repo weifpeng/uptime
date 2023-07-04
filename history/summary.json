@@ -4,19 +4,19 @@
     "url": "https://chatgpt.asset-system.com",
     "icon": "https://icons.duckduckgo.com/ip3/chatgpt.asset-system.com.ico",
     "slug": "gpt-web",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1429,
-    "timeDay": 1385,
-    "timeWeek": 1537,
-    "timeMonth": 1429,
-    "timeYear": 1429,
+    "status": "up",
+    "uptime": "99.58%",
+    "uptimeDay": "93.53%",
+    "uptimeWeek": "99.08%",
+    "uptimeMonth": "99.58%",
+    "uptimeYear": "99.58%",
+    "time": 1424,
+    "timeDay": 1304,
+    "timeWeek": 1523,
+    "timeMonth": 1424,
+    "timeYear": 1424,
     "dailyMinutesDown": {
-      "2023-07-04": 0
+      "2023-07-04": 93
     }
   }
 ]
